@@ -1,7 +1,6 @@
-# ICS3U3
+# Theatre Widget
 
-This is the final culminating project for the course ICS3U3.
-This is a program that helps the user manipulate theatre seating in a 30x20 seating map.
+As the final culminating project for the course ICS3U3, I made a program that helps the user manipulate theatre seating in a 30x20 seating map.
 
 Notes: 
 - This program was made in Ready to Program in Java IDE, meaning this runs on Java Version 1.4. Later versions of Java may not be able to support the original code functionality.
